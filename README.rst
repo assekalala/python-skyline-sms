@@ -30,7 +30,7 @@ Usage example
         print(response['status'])
         time.sleep(1)
         response = client.check_status(message_id)
-    print(response['status'])
+    print(response['delivery'])
 
 .. note::
 

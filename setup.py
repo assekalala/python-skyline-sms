@@ -6,7 +6,7 @@ def readme():
 
 setup(
   name = 'skylinesms',
-  version = '1.0',
+  version = '1.1',
   description = 'A module to send sms using the Skyline SMS REST apis, www.skylinesms.com',
   long_description = readme(),
   author = 'Abdu Ssekalala',
